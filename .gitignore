@@ -9,6 +9,7 @@
 !grafana_dashboard_json/
 !grafana_dashboard_json/**
 !.gitignore
+!README.md
 # Ignore these files
 /dags/__pycache__
 /dags/models
