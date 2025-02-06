@@ -1,0 +1,15 @@
+# Ignore everything
+*
+# Except these files
+!dags/
+!dags/**
+!Dockerfile
+!docker-compose.yaml
+!requirements.txt
+!grafana_dashboard_json/
+!grafana_dashboard_json/**
+!.gitignore
+# Ignore these files
+/dags/__pycache__
+/dags/models
+/dags/backups

@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+statsmodels
+lightgbm
+shap
+seaborn
+optuna
+plotly
+nbformat>=4.2.0
+mlflow
